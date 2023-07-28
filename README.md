@@ -3,7 +3,7 @@
 <img align="right" width="300" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamalphaforreal&label=Profile%20views&color=0e75b6&style=flat" alt="iamalphaforreal" /> </p>
 
-- 🔭 I’m currently working on **Sentiment**
+
 
 - 🌱 I’m currently learning **MERN**
 
