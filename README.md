@@ -2,8 +2,10 @@
 <h1 align="center"> Greetings!👋, I'm Alpha</h1> 
 <h2 align="center"> I am a full-stack web developer. </h2>
 <h4 align="center">I am a full-stack developer with a passion for creating applications that prioritize the user experience. I am constantly seeking new challenges and opportunities to expand my skillset. 😊</h4>
+
 <img align="right" width="300" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamalphaforreal&label=Profile%20views&color=0e75b6&style=flat" alt="iamalphaforreal" /> </p>
+  
+
 
 
 
