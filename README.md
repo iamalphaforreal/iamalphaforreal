@@ -1,7 +1,7 @@
 
 <h1 align="center"> Greetings!👋, I'm Alpha</h1> 
 <h2 align="center" I am a full-stack web developer. </h2>
-<h3 align="center">I am a full-stack developer with a passion for creating applications that prioritize the user experience. I am constantly seeking new challenges and opportunities to expand my skillset. In my leisure time, I enjoy staying active through cycling and gym workouts, as well as channeling my creativity into building web apps that make a difference 😊</h3>
+<h4 align="center">I am a full-stack developer with a passion for creating applications that prioritize the user experience. I am constantly seeking new challenges and opportunities to expand my skillset. In my leisure time, I enjoy staying active through cycling and gym workouts, as well as channeling my creativity into building web apps that make a difference 😊</h4>
 <img align="right" width="300" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamalphaforreal&label=Profile%20views&color=0e75b6&style=flat" alt="iamalphaforreal" /> </p>
 
@@ -23,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamalphaforreal&show_icons=true&locale=en" alt="iamalphaforreal" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamalphaforreal&show_icons=true&locale=en&layout=compact" alt="iamalphaforreal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamalphaforreal&" alt="iamalphaforreal" /></p>
